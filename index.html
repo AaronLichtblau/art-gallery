@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gallery</title>
+  <meta name="description" content="A collection of artwork.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preload" href="gallery.json" as="fetch" crossorigin>
+</head>
+<body>
+  <header class="site-header">
+    <h1>Gallery</h1>
+    <p class="subtitle">A selection of works</p>
+  </header>
+
+  <main>
+    <div id="gallery" class="gallery" aria-label="Artwork gallery"></div>
+    <p id="status" class="status" role="status">Loading…</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; <span id="year"></span> Your Name</p>
+  </footer>
+
+  <div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Image viewer">
+    <button class="lb-btn lb-close" aria-label="Close">&times;</button>
+    <button class="lb-btn lb-prev" aria-label="Previous">&#8249;</button>
+    <button class="lb-btn lb-next" aria-label="Next">&#8250;</button>
+    <figure class="lb-figure">
+      <img id="lb-img" alt="">
+      <figcaption id="lb-caption"></figcaption>
+    </figure>
+  </div>
+
+  <script src="gallery.js"></script>
+</body>
+</html>

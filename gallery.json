@@ -1,0 +1,382 @@
+[
+ {
+  "id": "sample-01",
+  "title": "Sample 01",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1600,
+  "h": 1200,
+  "color": "#dfe4dd",
+  "sizes": [
+   {
+    "src": "images/sample-01-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-01-960.webp",
+    "w": 960
+   },
+   {
+    "src": "images/sample-01-1600.webp",
+    "w": 1600
+   }
+  ]
+ },
+ {
+  "id": "sample-02",
+  "title": "Sample 02",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1200,
+  "h": 1600,
+  "color": "#ebd9db",
+  "sizes": [
+   {
+    "src": "images/sample-02-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-02-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-03",
+  "title": "Sample 03",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 2400,
+  "h": 1000,
+  "color": "#c3c6cb",
+  "sizes": [
+   {
+    "src": "images/sample-03-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-03-960.webp",
+    "w": 960
+   },
+   {
+    "src": "images/sample-03-1600.webp",
+    "w": 1600
+   }
+  ]
+ },
+ {
+  "id": "sample-04",
+  "title": "Sample 04",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1400,
+  "h": 1400,
+  "color": "#c6c4b5",
+  "sizes": [
+   {
+    "src": "images/sample-04-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-04-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-05",
+  "title": "Sample 05",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1000,
+  "h": 1800,
+  "color": "#d9cec4",
+  "sizes": [
+   {
+    "src": "images/sample-05-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-05-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-06",
+  "title": "Sample 06",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1800,
+  "h": 1200,
+  "color": "#dbe3db",
+  "sizes": [
+   {
+    "src": "images/sample-06-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-06-960.webp",
+    "w": 960
+   },
+   {
+    "src": "images/sample-06-1600.webp",
+    "w": 1600
+   }
+  ]
+ },
+ {
+  "id": "sample-07",
+  "title": "Sample 07",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1500,
+  "h": 1500,
+  "color": "#f5dfdb",
+  "sizes": [
+   {
+    "src": "images/sample-07-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-07-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-08",
+  "title": "Sample 08",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 2200,
+  "h": 1100,
+  "color": "#d0d4db",
+  "sizes": [
+   {
+    "src": "images/sample-08-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-08-960.webp",
+    "w": 960
+   },
+   {
+    "src": "images/sample-08-1600.webp",
+    "w": 1600
+   }
+  ]
+ },
+ {
+  "id": "sample-09",
+  "title": "Sample 09",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1200,
+  "h": 1500,
+  "color": "#b7baab",
+  "sizes": [
+   {
+    "src": "images/sample-09-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-09-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-10",
+  "title": "Sample 10",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1600,
+  "h": 1000,
+  "color": "#cdbfbd",
+  "sizes": [
+   {
+    "src": "images/sample-10-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-10-960.webp",
+    "w": 960
+   },
+   {
+    "src": "images/sample-10-1600.webp",
+    "w": 1600
+   }
+  ]
+ },
+ {
+  "id": "sample-11",
+  "title": "Sample 11",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1100,
+  "h": 1700,
+  "color": "#e0e6de",
+  "sizes": [
+   {
+    "src": "images/sample-11-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-11-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-12",
+  "title": "Sample 12",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1800,
+  "h": 1800,
+  "color": "#e9d2d5",
+  "sizes": [
+   {
+    "src": "images/sample-12-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-12-960.webp",
+    "w": 960
+   },
+   {
+    "src": "images/sample-12-1600.webp",
+    "w": 1600
+   }
+  ]
+ },
+ {
+  "id": "sample-13",
+  "title": "Sample 13",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1500,
+  "h": 1100,
+  "color": "#d3cfc2",
+  "sizes": [
+   {
+    "src": "images/sample-13-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-13-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-14",
+  "title": "Sample 14",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1000,
+  "h": 1000,
+  "color": "#c3cab4",
+  "sizes": [
+   {
+    "src": "images/sample-14-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-14-960.webp",
+    "w": 960
+   }
+  ]
+ },
+ {
+  "id": "sample-15",
+  "title": "Sample 15",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 2000,
+  "h": 1200,
+  "color": "#d6c9c1",
+  "sizes": [
+   {
+    "src": "images/sample-15-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-15-960.webp",
+    "w": 960
+   },
+   {
+    "src": "images/sample-15-1600.webp",
+    "w": 1600
+   }
+  ]
+ },
+ {
+  "id": "sample-16",
+  "title": "Sample 16",
+  "artist": "",
+  "year": "",
+  "medium": "",
+  "alt": "",
+  "featured": false,
+  "w": 1200,
+  "h": 1800,
+  "color": "#dfe6df",
+  "sizes": [
+   {
+    "src": "images/sample-16-480.webp",
+    "w": 480
+   },
+   {
+    "src": "images/sample-16-960.webp",
+    "w": 960
+   }
+  ]
+ }
+]
